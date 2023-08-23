@@ -38,5 +38,3 @@ npm start
 
 👨‍💻 Happy coding!
 ```
-
-Feel free to customize this README template to fit your project's specifics, such as project name, repository URL, and any additional details you want to include. Make sure to provide clear instructions for installation, running the project, and any other relevant information.
