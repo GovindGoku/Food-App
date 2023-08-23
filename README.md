@@ -37,4 +37,3 @@ npm start
 🌐 The development server should automatically open your default web browser and display the website at `http://localhost:3000`.
 
 👨‍💻 Happy coding!
-```
