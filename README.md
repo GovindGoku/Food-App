@@ -14,16 +14,18 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your mach
 
 1. Clone the repository
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd react-tailwind-css-website
-   ```
+2. Navigate to the project directory
 
 3. Install project dependencies:
 
    ```bash
    npm install
+   ```
+4. Install tailwind css
+   
+   ```bash
+   npm install -D tailwindcss
+   npx tailwindcss init
    ```
 
 ## Running the Project
